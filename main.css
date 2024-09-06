@@ -1,0 +1,56 @@
+
+.nav {
+    height: 143px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.logo {
+    height: 100px;
+    width: 10px;
+    margin-left: 20px;
+}
+
+
+.ul {
+   float:left;
+    width: 20%;
+    display: flex;
+    justify-content: space-around;
+   
+}
+.m1
+{
+float:left;
+margin: 0 20px; 
+
+}
+.n2
+{
+    float:left;
+    margin: 0 20px; 
+
+}
+.t3
+{
+    float:left;
+    margin: 0 20px; 
+
+}
+.header {
+    background-image: url('image/books-5937823_640.jpg');
+    background-size: cover;
+    height: 200px;
+}
+
+.div1 {
+    background-color: azure;
+}
+
+.div2 {
+    background-color: blue;
+}
+
+.div3 {
+    background-color: brown;
+}
